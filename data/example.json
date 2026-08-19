@@ -28,7 +28,7 @@
     "actual_outcome": "22% clicked, 55% accepted $20/mo",
     "learning_extracted": "Support-ticket volume undercounts true demand",
     "rule_version": "PRD-RULE-003",
-    "last_reviewed": "2026-08-18"
+    "last_reviewed": "2026-08-19"
   },
   "learning_ledger": {
     "case": "Users repeatedly export then re-import",
