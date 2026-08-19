@@ -1,5 +1,5 @@
 {
-  "$id": "https://hermes-ios.github.io/07-product.json",
+  "$id": "https://robfuj.github.io/07-product.json",
   "title": "Product spec",
   "type": "object",
   "required": [

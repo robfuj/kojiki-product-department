@@ -1,0 +1,128 @@
+{
+  "department": "07-product",
+  "orientation_required": true,
+  "research_then_install": true,
+  "sub_function_count": 8,
+  "bots": [
+    {
+      "slug": "product-strategy",
+      "sub_function": "Product Strategy",
+      "titles": [
+        "CPO",
+        "VP Product",
+        "Head of Product",
+        "Product Director",
+        "Group Product Manager",
+        "Product Manager",
+        "Product Owner",
+        "Product Operations Manager",
+        "UX Researcher"
+      ]
+    },
+    {
+      "slug": "product-management",
+      "sub_function": "Product Management",
+      "titles": [
+        "CPO",
+        "VP Product",
+        "Head of Product",
+        "Product Director",
+        "Group Product Manager",
+        "Product Manager",
+        "Product Owner",
+        "Product Operations Manager",
+        "UX Researcher"
+      ]
+    },
+    {
+      "slug": "product-operations",
+      "sub_function": "Product Operations",
+      "titles": [
+        "CPO",
+        "VP Product",
+        "Head of Product",
+        "Product Director",
+        "Group Product Manager",
+        "Product Manager",
+        "Product Owner",
+        "Product Operations Manager",
+        "UX Researcher"
+      ]
+    },
+    {
+      "slug": "user-research",
+      "sub_function": "User Research",
+      "titles": [
+        "CPO",
+        "VP Product",
+        "Head of Product",
+        "Product Director",
+        "Group Product Manager",
+        "Product Manager",
+        "Product Owner",
+        "Product Operations Manager",
+        "UX Researcher"
+      ]
+    },
+    {
+      "slug": "product-design",
+      "sub_function": "Product Design",
+      "titles": [
+        "CPO",
+        "VP Product",
+        "Head of Product",
+        "Product Director",
+        "Group Product Manager",
+        "Product Manager",
+        "Product Owner",
+        "Product Operations Manager",
+        "UX Researcher"
+      ]
+    },
+    {
+      "slug": "ux",
+      "sub_function": "UX",
+      "titles": [
+        "CPO",
+        "VP Product",
+        "Head of Product",
+        "Product Director",
+        "Group Product Manager",
+        "Product Manager",
+        "Product Owner",
+        "Product Operations Manager",
+        "UX Researcher"
+      ]
+    },
+    {
+      "slug": "product-analytics",
+      "sub_function": "Product Analytics",
+      "titles": [
+        "CPO",
+        "VP Product",
+        "Head of Product",
+        "Product Director",
+        "Group Product Manager",
+        "Product Manager",
+        "Product Owner",
+        "Product Operations Manager",
+        "UX Researcher"
+      ]
+    },
+    {
+      "slug": "product-growth",
+      "sub_function": "Product Growth",
+      "titles": [
+        "CPO",
+        "VP Product",
+        "Head of Product",
+        "Product Director",
+        "Group Product Manager",
+        "Product Manager",
+        "Product Owner",
+        "Product Operations Manager",
+        "UX Researcher"
+      ]
+    }
+  ]
+}
