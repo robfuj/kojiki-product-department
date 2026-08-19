@@ -1,0 +1,46 @@
+{
+  "decision_object": {
+    "decision_id": "PRD-2026-041",
+    "decision_name": "Native bi-directional sync",
+    "owning_function": "Product",
+    "decision_owner_role": "Product Manager",
+    "trigger_condition": "~30 'can I sync' tickets/mo; 1 churn cited it",
+    "current_state": "Manual CSV round-tripping; no sync",
+    "required_inputs": [
+      "support ticket volume",
+      "churned-account reason",
+      "competitor sync feature"
+    ],
+    "evidence_threshold": ">= 15% fake-door click AND >= 40% price accept",
+    "available_options": [
+      "Build sync",
+      "3rd-party integrate",
+      "Improve export",
+      "Do nothing"
+    ],
+    "decision_criteria": "Willingness-to-pay + retention lift",
+    "constraints": "Roadmap capacity 1 team-quarter",
+    "risk_level": "medium",
+    "delegation_level": "Recommend",
+    "escalation_conditions": "Build cost exceeds 2 team-quarters",
+    "expected_outcome": "Validated willingness or kill",
+    "verification_method": "Fake-door Sync button + price test",
+    "actual_outcome": "22% clicked, 55% accepted $20/mo",
+    "learning_extracted": "Support-ticket volume undercounts true demand",
+    "rule_version": "PRD-RULE-003",
+    "last_reviewed": "2026-08-18"
+  },
+  "learning_ledger": {
+    "case": "Users repeatedly export then re-import",
+    "decision": "Validate with fake-door",
+    "assumption": "Users will pay for sync",
+    "action": "Fake-door Sync button + price tolerance",
+    "expected_result": ">=15% click, >=40% price accept",
+    "actual_result": "22% click, 55% accept",
+    "variance": "Confirmed willingness",
+    "cause": "Real, frequent, painful problem",
+    "learning": "Use fake-door tests before committing eng to integrations",
+    "rule_update": "Use fake-door tests before committing eng to integration features"
+  },
+  "orientation_required": true
+}
